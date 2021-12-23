@@ -1,14 +1,8 @@
 # Tasks Flutter App
 
 #### Packages:
-- get_storage
-- get
-- date_time_picker
-- date_picker_timeline
-- flutter_local_notifications
-- flutter_native_timezone
-- intl
-- google_fonts
+- cupertino_icons
+- flutter_svg
 
 # Screenshot's 
 

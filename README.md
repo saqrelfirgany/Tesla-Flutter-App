@@ -1,16 +1,21 @@
-# saqr_elfirgany
+# Tasks Flutter App
 
-A new Flutter application.
+#### Packages:
+- get_storage
+- get
+- date_time_picker
+- date_picker_timeline
+- flutter_local_notifications
+- flutter_native_timezone
+- intl
+- google_fonts
 
-## Getting Started
+# Screenshot's 
 
-This project is a starting point for a Flutter application.
+![](Screenshot/Screenshot_2021-12-23-03-44-38.png)
+![](Screenshot/Screenshot_2021-12-23-03-44-51.png)
 
-A few resources to get you started if this is your first Flutter project:
+![](Screenshot/Screenshot_2021-12-23-03-44-55.png)
+![](Screenshot/Screenshot_2021-12-23-03-45-00.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](Screenshot/Screenshot_2021-12-23-03-45-16.png)
